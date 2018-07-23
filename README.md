@@ -7,3 +7,5 @@ After submitting the form, the data is stored in JSON format.
 
 To Run this App
 Just Download this project and run(index.php) on server like Apache.
+
+This is my first paid freelance project 
