@@ -170,15 +170,6 @@ a{
     margin-right: 5px;
 }
 
-.footer{
-	width: 970px;
-	margin: 70px auto 0;
-	padding: 65px 0 70px;
-	text-align: center;
-	font-size: 14px;
-	color: #606060;
-	border-top: solid 1px #ddd;
-}
 #loaderContent {
 	text-align: center;
     position: fixed;
